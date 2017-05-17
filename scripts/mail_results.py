@@ -27,7 +27,7 @@ res+='\n'
 
 body = "Hello!\n\nHere are the results of your exploration:"+res+"\n\nThanks,\nThe ConSpeciFix Team"
  
-postMessage = "\n\n\nThis message is in regards to the file uploaded on "+str(datetime.datetime.fromtimestamp(int(getTimeStamp())/1000.0))+"\nSpecies testing against: "+getSingleSpecies()[0]+"\n\n"
+postMessage = "\n\n\nThis message is in regards to the file uploaded on "+str(datetime.datetime.fromtimestamp(int(getTimeStamp())/1000.0))
 
 body = body + postMessage
 
