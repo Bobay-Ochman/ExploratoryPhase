@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/Admin/Documents/Work/ExploratoryPhase/scripts/clean_gene_names.py", line 4, in <module>
+    print printAllArgs()
+NameError: name 'printAllArgs' is not defined

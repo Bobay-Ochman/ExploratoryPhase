@@ -1,13 +1,18 @@
+import sys
+
 
 def getTimeStamp():
-	return "1"
+	return sys.argv[1]
 
 def getGenomeFileName():
-	return 'test7.fa'
+    return sys.argv[2]
+
+def getEmail():
+    return sys.argv[3]
 
 
 PATH_TO_USEARCH = '/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32'
-PATH_TO_ME = '/Users/Admin/Documents/Work/identiFix'
+PATH_TO_ME = '/Users/Admin/Documents/Work/ExploratoryPhase/'
 PATH_TO_UPLOAD = PATH_TO_ME+'/uploads/'+getTimeStamp()+'/'
 
 

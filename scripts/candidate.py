@@ -41,7 +41,7 @@ for l in f:
 
 f.close()
 
-fileOut = open(PATH_TO_UPLOAD+'results_for_+='+getGenomeFileName()+'.txt','w')
+fileOut = open(PATH_TO_UPLOAD+'FinalResults.txt','w')
 
 print 'We have ',len(species),' candidate(s) for you:\n'
 multiple=[]
