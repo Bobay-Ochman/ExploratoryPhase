@@ -68,7 +68,7 @@ for sp in species:
 
 message = ''
 if candidate[1] >= 94 and len(multiple) <= 1:
-	message= '\nMost likely species of '+getGenomeFileName()+': '+candidate[0]
+	message= '\nMost likely species of genome: '+candidate[0]
 elif len(multiple) > 1:
 		message= '\nMultiple candidates with >98% identity: '+('\n'.join(multiple))
 else:
