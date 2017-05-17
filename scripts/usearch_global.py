@@ -2,11 +2,9 @@ from config import *
 import os
 
 
-timeStamp = '1'
+timeStamp = getTimeStamp()
+testGenome = getGenomeFileName()
 markers=os.listdir('../markers/')
-testGenomes = os.listdir('../uploads/'+timeStamp)
-testGenome = testGenomes[0]
-
 
 nb=0
 for hmm in markers:

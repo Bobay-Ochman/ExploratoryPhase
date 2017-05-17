@@ -10,6 +10,8 @@ def getGenomeFileName():
 def getEmail():
     return sys.argv[3]
 
+def printAllArgs():
+    return str(sys.argv)
 
 PATH_TO_USEARCH = '/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32'
 PATH_TO_ME = '/Users/Admin/Documents/Work/ExploratoryPhase/'

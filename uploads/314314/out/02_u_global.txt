@@ -2,583 +2,126 @@ usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt, 0 seqs00:00 199Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt, 7071 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_2_FAM000028_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt, 0 seqs00:01  23Mb    7.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt, 523 seqs00:01 188Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt, 7071 seqs
+00:01 182Mb    0.1% Searching                                                                                       00:02 184Mb    4.4% Searching 0.0% matched00:03 185Mb   21.8% Searching 0.0% matched00:04 185Mb   38.2% Searching 0.2% matched00:05 185Mb   55.4% Searching 0.2% matched00:06 185Mb   71.5% Searching 0.2% matched00:07 185Mb   87.6% Searching 0.2% matched00:07 185Mb  100.0% Searching 0.2% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 0 seqs00:01  24Mb    1.6% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 109 seqs00:02 269Mb   55.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 3810 seqs00:02 458Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 6902 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_DnaG_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 0 seqs00:01  53Mb   10.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 680 seqs00:02 288Mb   63.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 4349 seqs00:02 439Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt, 6902 seqs
+00:02 426Mb    0.1% Searching                                                                                00:03 428Mb    2.7% Searching 0.0% matched00:04 428Mb   12.0% Searching 0.0% matched00:05 428Mb   22.2% Searching 0.0% matched00:06 428Mb   30.4% Searching 0.0% matched00:07 428Mb   39.7% Searching 0.0% matched00:08 428Mb   48.6% Searching 0.0% matched00:09 428Mb   58.0% Searching 0.1% matched00:10 428Mb   66.1% Searching 0.1% matched00:11 428Mb   73.9% Searching 0.1% matched00:12 428Mb   83.3% Searching 0.1% matched00:13 428Mb   92.1% Searching 0.1% matched00:13 428Mb  100.0% Searching 0.1% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt, 0 seqs00:01  53Mb   17.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt, 1086 seqs00:01 260Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt, 6068 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000023_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt, 0 seqs00:01  25Mb    6.3% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt, 380 seqs00:01 260Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt, 6068 seqs
+00:01 253Mb    0.1% Searching                                                                                     00:02 255Mb    0.4% Searching 0.0% matched00:03 255Mb    8.6% Searching 0.0% matched00:04 255Mb   16.3% Searching 0.0% matched00:05 255Mb   24.6% Searching 0.0% matched00:06 255Mb   33.3% Searching 0.0% matched00:07 255Mb   40.8% Searching 0.0% matched00:08 255Mb   48.8% Searching 0.0% matched00:09 255Mb   57.1% Searching 0.0% matched00:10 255Mb   64.5% Searching 0.0% matched00:11 255Mb   73.8% Searching 0.0% matched00:12 255Mb   83.7% Searching 0.0% matched00:13 255Mb   91.8% Searching 0.0% matched00:13 255Mb  100.0% Searching 0.0% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt, 0 seqs00:01  39Mb   14.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt, 1028 seqs00:01 228Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt, 7093 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000058_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt, 0 seqs00:01  12Mb    0.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt, 30 seqs00:01 219Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt, 7093 seqs
+00:01 212Mb    0.1% Searching                                                                                           00:02 214Mb    0.7% Searching 0.0% matched00:03 214Mb    8.9% Searching 1.0% matched00:04 214Mb   15.0% Searching 1.0% matched00:05 214Mb   17.4% Searching 1.0% matched00:06 214Mb   23.5% Searching 1.0% matched00:07 214Mb   29.3% Searching 1.0% matched00:08 214Mb   36.3% Searching 1.0% matched00:09 214Mb   41.5% Searching 1.0% matched00:10 214Mb   48.3% Searching 1.0% matched00:11 214Mb   56.3% Searching 1.0% matched00:12 214Mb   63.8% Searching 1.0% matched00:13 215Mb   71.5% Searching 1.0% matched00:14 215Mb   79.2% Searching 1.0% matched00:15 215Mb   86.7% Searching 1.0% matched00:16 215Mb   94.5% Searching 1.0% matched00:16 215Mb  100.0% Searching 1.0% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 0 seqs00:01  65Mb   12.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 884 seqs00:02 337Mb   78.4% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 5528 seqs00:02 423Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 7057 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000121_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 0 seqs00:01  30Mb    3.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 238 seqs00:02 283Mb   61.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 4316 seqs00:02 420Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt, 7057 seqs
+00:02 407Mb    0.1% Searching                                                                                     00:03 410Mb    1.5% Searching 0.0% matched00:04 410Mb    8.0% Searching 0.0% matched00:05 410Mb   13.3% Searching 0.0% matched00:06 410Mb   19.1% Searching 0.0% matched00:07 410Mb   24.9% Searching 0.0% matched00:08 410Mb   30.3% Searching 0.0% matched00:09 410Mb   35.7% Searching 0.1% matched00:10 410Mb   40.9% Searching 0.1% matched00:11 410Mb   46.5% Searching 0.1% matched00:12 410Mb   51.5% Searching 0.1% matched00:13 410Mb   56.1% Searching 0.1% matched00:14 410Mb   61.2% Searching 0.1% matched00:15 410Mb   65.6% Searching 0.1% matched00:16 410Mb   71.1% Searching 0.1% matched00:17 410Mb   76.8% Searching 0.1% matched00:18 410Mb   82.2% Searching 0.1% matched00:19 410Mb   87.6% Searching 0.1% matched00:20 410Mb   92.7% Searching 0.1% matched00:21 410Mb   98.3% Searching 0.1% matched00:21 410Mb  100.0% Searching 0.1% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt, 0 seqs00:01 165Mb   50.2% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt, 3554 seqs00:01 306Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt, 7101 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000251_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt, 0 seqs00:01 154Mb   48.9% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt, 3466 seqs00:01 311Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt, 7101 seqs
+00:01 302Mb    0.1% Searching                                                                                     00:02 304Mb    3.5% Searching 0.0% matched00:03 304Mb   11.3% Searching 0.0% matched00:04 304Mb   20.7% Searching 0.0% matched00:05 306Mb   29.0% Searching 0.0% matched00:06 306Mb   35.3% Searching 0.0% matched00:07 306Mb   41.5% Searching 0.0% matched00:08 306Mb   48.5% Searching 0.0% matched00:09 306Mb   56.3% Searching 0.0% matched00:10 306Mb   63.4% Searching 0.0% matched00:11 306Mb   70.0% Searching 0.0% matched00:12 306Mb   76.1% Searching 0.0% matched00:13 306Mb   83.1% Searching 0.0% matched00:14 306Mb   90.7% Searching 0.0% matched00:15 306Mb   97.2% Searching 0.0% matched00:15 306Mb  100.0% Searching 0.0% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt, 0 seqs00:01 111Mb   29.6% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt, 2075 seqs00:01 345Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt, 7033 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000308_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt, 0 seqs00:01 118Mb   32.4% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt, 2278 seqs00:01 354Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt, 7033 seqs
+00:01 344Mb    0.1% Searching                                                                                     00:02 346Mb    0.6% Searching 0.0% matched00:03 346Mb    5.4% Searching 0.0% matched00:04 346Mb   10.8% Searching 0.0% matched00:05 346Mb   16.1% Searching 0.4% matched00:06 346Mb   20.8% Searching 0.4% matched00:07 346Mb   26.1% Searching 0.4% matched00:08 346Mb   30.5% Searching 0.4% matched00:09 346Mb   35.7% Searching 0.4% matched00:10 346Mb   40.6% Searching 0.4% matched00:11 346Mb   45.8% Searching 0.4% matched00:12 346Mb   50.3% Searching 0.4% matched00:13 346Mb   55.7% Searching 0.4% matched00:14 346Mb   61.4% Searching 0.4% matched00:15 346Mb   66.4% Searching 0.4% matched00:16 346Mb   71.7% Searching 0.4% matched00:17 346Mb   76.7% Searching 0.4% matched00:18 346Mb   82.0% Searching 0.4% matched00:19 346Mb   87.2% Searching 0.4% matched00:20 346Mb   92.6% Searching 0.4% matched00:21 346Mb   97.5% Searching 0.4% matched00:21 346Mb  100.0% Searching 0.4% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt, 0 seqs00:01  25Mb    2.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt, 178 seqs00:02 274Mb   70.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt, 4826 seqs00:02 370Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt, 6853 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000364_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt, 0 seqs00:01 124Mb   29.2% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt, 1997 seqs00:01 378Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt, 6853 seqs
+00:01 366Mb    0.1% Searching                                                                                     00:02 368Mb    0.2% Searching 0.0% matched00:03 368Mb    5.1% Searching 0.0% matched00:04 368Mb   10.2% Searching 0.0% matched00:05 368Mb   15.2% Searching 0.0% matched00:06 368Mb   20.9% Searching 0.0% matched00:07 368Mb   26.2% Searching 0.2% matched00:08 368Mb   31.0% Searching 0.2% matched00:09 368Mb   36.4% Searching 0.2% matched00:10 368Mb   41.3% Searching 0.2% matched00:11 368Mb   46.0% Searching 0.2% matched00:12 368Mb   51.0% Searching 0.2% matched00:13 368Mb   56.1% Searching 0.2% matched00:14 368Mb   61.4% Searching 0.2% matched00:15 368Mb   65.9% Searching 0.2% matched00:16 368Mb   70.9% Searching 0.2% matched00:17 368Mb   75.8% Searching 0.2% matched00:18 368Mb   81.6% Searching 0.2% matched00:19 368Mb   86.4% Searching 0.2% matched00:20 368Mb   91.1% Searching 0.2% matched00:21 368Mb   96.2% Searching 0.2% matched00:21 368Mb  100.0% Searching 0.2% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt, 0 seqs00:01 110Mb   42.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt, 3008 seqs00:01 245Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt, 7049 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000366_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt, 0 seqs00:01  92Mb   27.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt, 1891 seqs00:01 308Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt, 7044 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000371_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt, 0 seqs00:01  50Mb   18.3% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt, 1282 seqs00:01 260Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt, 7049 seqs
+00:01 252Mb    0.1% Searching                                                                                     00:02 254Mb    2.8% Searching 0.0% matched00:03 254Mb   20.6% Searching 0.0% matched00:04 255Mb   38.4% Searching 0.0% matched00:05 255Mb   54.4% Searching 0.0% matched00:06 255Mb   70.2% Searching 0.1% matched00:07 255Mb   86.4% Searching 0.1% matched00:07 255Mb  100.0% Searching 0.1% matched
 2_FAM000028_finalBA.txt   1 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_2_FAM000028_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/2_FAM000028_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_2_FAM000028_finalBA.txt.out
 DnaG_finalBA.txt   2 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_DnaG_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/DnaG_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_DnaG_finalBA.txt.out
 FAM000023_finalBA.txt   3 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000023_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000023_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_FAM000023_finalBA.txt.out
 FAM000058_ABfinal.fasta.txt   4 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000058_ABfinal.fasta.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000058_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_FAM000058_ABfinal.fasta.txt.out
 FAM000121_finalBA.txt   5 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000121_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000121_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_FAM000121_finalBA.txt.out
 FAM000251_finalBA.txt   6 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000251_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000251_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_FAM000251_finalBA.txt.out
 FAM000308_finalBA.txt   7 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000308_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000308_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_FAM000308_finalBA.txt.out
 FAM000364_finalBA.txt   8 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000364_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000364_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_FAM000364_finalBA.txt.out
 FAM000366_finalBA.txt   9 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000366_finalBA.txt.out
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000366_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_genomic_FAM000366_finalBA.txt.out
 FAM000371_finalBA.txt   10 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000371_finalBA.txt.out
-FAM000388_finalBA.txt   11 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAusearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
+/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/314314/GCF_001541385.1_ASM154138v1_usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000388_finalBA.txt, 0 seqs00:01  16Mb    2.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000388_finalBA.txt, 180 seqs00:01 198Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000388_finalBA.txt, 6972 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000388_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000388_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt, 0 seqs00:01  46Mb   11.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt, 819 seqs00:02 309Mb   91.3% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt, 6418 seqs00:02 319Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000371_finalBA.txt, 7044 seqs
+00:02 310Mb    0.1% Searching                                                                                     00:03 312Mb   10.1% Searching 0.6% matched00:04 312Mb   23.2% Searching 0.4% matched00:05 312Mb   35.3% Searching 0.4% matched00:06 312Mb   46.5% Searching 0.4% matched00:07 312Mb   58.0% Searching 0.4% matched00:08 312Mb   70.0% Searching 0.4% matched00:09 312Mb   83.0% Searching 0.4% matched00:10 312Mb   93.6% Searching 0.4% matched00:10 312Mb  100.0% Searching 0.4% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000390_finalBA.txt, 0 seqs00:01  22Mb   15.4% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000390_finalBA.txt, 1074 seqs00:01 104Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000390_finalBA.txt, 6999 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000390_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000390_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000388_finalBA.txt, 0 seqs00:01 115Mb   54.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000388_finalBA.txt, 3823 seqs00:01 201Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000388_finalBA.txt, 6972 seqs
+00:01 194Mb    0.1% Searching                                                                                     00:02 197Mb    5.3% Searching 0.0% matched00:03 197Mb   13.0% Searching 0.0% matched00:04 197Mb   21.5% Searching 0.0% matched00:05 197Mb   29.6% Searching 0.2% matched00:06 197Mb   37.5% Searching 0.2% matched00:07 197Mb   45.5% Searching 0.2% matched00:08 197Mb   52.7% Searching 0.2% matched00:09 197Mb   59.8% Searching 0.2% matched00:10 197Mb   67.3% Searching 0.2% matched00:11 197Mb   75.3% Searching 0.2% matched00:12 197Mb   83.3% Searching 0.2% matched00:13 197Mb   91.1% Searching 0.2% matched00:14 197Mb   98.5% Searching 0.2% matched00:14 197Mb  100.0% Searching 0.2% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000391_finalBA.txt, 0 seqs00:00 112Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000391_finalBA.txt, 7002 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000391_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000391_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000390_finalBA.txt, 0 seqs00:00 108Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000390_finalBA.txt, 6999 seqs
+00:00 105Mb    0.1% Searching                                                                                     00:01 107Mb    5.0% Searching 0.0% matched00:02 107Mb   19.0% Searching 0.5% matched00:03 107Mb   33.3% Searching 0.5% matched00:04 107Mb   47.6% Searching 0.5% matched00:05 107Mb   62.1% Searching 0.5% matched00:06 107Mb   76.3% Searching 0.5% matched00:07 107Mb   90.6% Searching 0.5% matched00:07 107Mb  100.0% Searching 0.5% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt, 0 seqs00:01  27Mb   18.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt, 1295 seqs00:01 113Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt, 7027 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000392_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000391_finalBA.txt, 0 seqs00:01  71Mb   62.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000391_finalBA.txt, 4369 seqs00:01 113Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000391_finalBA.txt, 7002 seqs
+00:01 110Mb    0.1% Searching                                                                                     00:02 112Mb   10.6% Searching 0.5% matched00:03 112Mb   24.1% Searching 0.5% matched00:04 112Mb   37.1% Searching 0.5% matched00:05 112Mb   51.0% Searching 0.5% matched00:06 112Mb   64.7% Searching 0.5% matched00:07 112Mb   78.2% Searching 0.5% matched00:08 112Mb   91.1% Searching 0.5% matched00:08 112Mb  100.0% Searching 0.5% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000394_finalAB.txt, 0 seqs00:00 101Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000394_finalAB.txt, 7021 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000394_finalAB.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000394_finalAB.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt, 0 seqs00:01  60Mb   50.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt, 3504 seqs00:01 123Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt, 7027 seqs
+00:01 119Mb    0.1% Searching                                                                                           00:02 121Mb   10.1% Searching 0.6% matched00:03 121Mb   22.6% Searching 0.6% matched00:04 121Mb   35.3% Searching 0.6% matched00:05 121Mb   47.6% Searching 0.6% matched00:06 121Mb   59.6% Searching 0.6% matched00:07 121Mb   70.5% Searching 0.6% matched00:08 121Mb   83.5% Searching 0.6% matched00:09 121Mb   95.3% Searching 0.6% matched00:09 121Mb  100.0% Searching 0.6% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000396_ABfinal.fasta.txt, 0 seqs00:01  32Mb   30.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000396_ABfinal.fasta.txt, 2152 seqs00:01  94Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000396_ABfinal.fasta.txt, 7009 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000396_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000396_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000394_finalAB.txt, 0 seqs00:00 104Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000394_finalAB.txt, 7021 seqs
+00:00 100Mb    0.1% Searching                                                                                     00:01 103Mb    2.5% Searching 0.0% matched00:02 103Mb   18.7% Searching 0.5% matched00:03 103Mb   34.3% Searching 0.5% matched00:04 103Mb   50.5% Searching 0.5% matched00:05 103Mb   66.8% Searching 0.5% matched00:06 103Mb   82.9% Searching 0.5% matched00:07 109Mb   98.8% Searching 0.5% matched00:07 109Mb  100.0% Searching 0.5% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt, 0 seqs00:01 159Mb   69.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt, 4802 seqs00:01 232Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt, 6900 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000445_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000396_ABfinal.fasta.txt, 0 seqs00:00 102Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000396_ABfinal.fasta.txt, 7009 seqs
+00:00  99Mb    0.1% Searching                                                                                           00:01 101Mb    7.3% Searching 0.0% matched00:02 101Mb   19.8% Searching 0.5% matched00:03 101Mb   35.7% Searching 0.5% matched00:04 101Mb   51.6% Searching 0.5% matched00:05 101Mb   67.0% Searching 0.5% matched00:06 101Mb   82.7% Searching 0.5% matched00:07 101Mb   98.3% Searching 0.5% matched00:07 101Mb  100.0% Searching 0.5% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000448_finalBA.txt, 0 seqs00:00 128Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000448_finalBA.txt, 6993 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000448_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000448_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt, 0 seqs00:01 216Mb   90.8% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt, 6275 seqs00:01 226Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt, 6900 seqs
+00:01 219Mb    0.1% Searching                                                                                           00:02 221Mb    8.3% Searching 0.0% matched00:03 221Mb   18.6% Searching 0.0% matched00:04 221Mb   28.8% Searching 0.2% matched00:05 221Mb   37.1% Searching 0.2% matched00:06 221Mb   46.1% Searching 0.2% matched00:07 222Mb   54.6% Searching 0.2% matched00:08 222Mb   63.4% Searching 0.2% matched00:09 222Mb   71.4% Searching 0.2% matched00:10 222Mb   80.6% Searching 0.2% matched00:11 222Mb   89.0% Searching 0.2% matched00:12 222Mb   97.8% Searching 0.2% matched00:12 222Mb  100.0% Searching 0.2% matched
 usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
 (C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
 License: brian.e2014@gmail.com
 
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000450_finalBA.txt, 0 seqs00:01  49Mb   44.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000450_finalBA.txt, 3062 seqs00:01 100Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000450_finalBA.txt, 6994 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000450_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000450_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000452_finalBA.txt, 0 seqs00:01 190Mb   18.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000452_finalBA.txt, 1258 seqs00:02 446Mb   47.9% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000452_finalBA.txt, 3281 seqs00:03 667Mb   78.4% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000452_finalBA.txt, 5383 seqs00:03 830Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000452_finalBA.txt, 6895 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000452_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000452_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt, 0 seqs00:01  41Mb    2.8% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt, 185 seqs00:02 257Mb   28.3% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt, 1918 seqs00:03 486Mb   57.8% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt, 3982 seqs00:04 707Mb   87.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt, 6026 seqs00:04 779Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt, 6873 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000453_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-M000388_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000388_finalBA.txt.out
-FAM000390_finalBA.txt   12 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000390_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000390_finalBA.txt.out
-FAM000391_finalBA.txt   13 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000391_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000391_finalBA.txt.out
-FAM000392_ABfinal.fasta.txt   14 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000392_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000392_ABfinal.fasta.txt.out
-FAM000394_finalAB.txt   15 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000394_finalAB.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000394_finalAB.txt.out
-FAM000396_ABfinal.fasta.txt   16 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000396_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000396_ABfinal.fasta.txt.out
-FAM000445_ABfinal.fasta.txt   17 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000445_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000445_ABfinal.fasta.txt.out
-FAM000448_finalBA.txt   18 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000448_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000448_finalBA.txt.out
-FAM000450_finalBA.txt   19 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000450_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000450_finalBA.txt.out
-FAM000452_finalBA.txt   20 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000452_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000452_finalBA.txt.out
-FAM000453_finalBA.txt   21 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000453_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000453_finalBA.txt.out
-FAM000515_ABfinal.fasta.txt   22 /44
-/Users/Admin/Docusearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000515_ABfinal.fasta.txt, 0 seqs00:01 120Mb   64.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000515_ABfinal.fasta.txt, 4477 seqs00:01 179Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000515_ABfinal.fasta.txt, 7005 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000515_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000515_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000516_finalBA.fasta.txt, 0 seqs00:00 170Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000516_finalBA.fasta.txt, 7009 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000516_finalBA.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000516_finalBA.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000518_finalBA.txt, 0 seqs00:01  13Mb    1.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000518_finalBA.txt, 70 seqs00:01 212Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000518_finalBA.txt, 6969 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000518_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000518_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000521_finalBA.txt, 0 seqs00:01  39Mb   18.3% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000521_finalBA.txt, 1276 seqs00:01 186Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000521_finalBA.txt, 6986 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000521_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000521_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000525_finalBA.txt, 0 seqs00:01  80Mb   83.8% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000525_finalBA.txt, 5894 seqs00:01  96Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000525_finalBA.txt, 7036 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000525_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000525_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000528_finalBA.txt, 0 seqs00:00 148Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000528_finalBA.txt, 7023 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000528_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000528_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000530_ABfinal.fasta.txt, 0 seqs00:01  76Mb   72.8% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000530_ABfinal.fasta.txt, 5109 seqs00:01  99Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000530_ABfinal.fasta.txt, 7024 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000530_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000530_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000535_finalBA.txt, 0 seqs00:00 147Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000535_finalBA.txt, 7034 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000535_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000535_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000537_finalBA.txt, 0 seqs00:01  61Mb   15.6% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000537_finalBA.txt, 1092 seqs00:02 280Mb   85.5% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000537_finalBA.txt, 5961 seqs00:02 325Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000537_finalBA.txt, 6984 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000537_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000537_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000551_ABfinal.fasta.txt, 0 seqs00:01 161Mb   84.3% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000551_ABfinal.fasta.txt, 5767 seqs00:01 190Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000551_ABfinal.fasta.txt, 6842 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000551_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000551_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-uments/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000515_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000515_ABfinal.fasta.txt.out
-FAM000516_finalBA.fasta.txt   23 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000516_finalBA.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000516_finalBA.fasta.txt.out
-FAM000518_finalBA.txt   24 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000518_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000518_finalBA.txt.out
-FAM000521_finalBA.txt   25 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000521_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000521_finalBA.txt.out
-FAM000525_finalBA.txt   26 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000525_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000525_finalBA.txt.out
-FAM000528_finalBA.txt   27 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000528_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000528_finalBA.txt.out
-FAM000530_ABfinal.fasta.txt   28 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000530_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000530_ABfinal.fasta.txt.out
-FAM000535_finalBA.txt   29 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000535_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000535_finalBA.txt.out
-FAM000537_finalBA.txt   30 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000537_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000537_finalBA.txt.out
-FAM000551_ABfinal.fasta.txt   31 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000551_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000551_ABfinal.fasta.txt.out
-FAM000602_finalBA.txt   32 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/Exploratousearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000602_finalBA.txt, 0 seqs00:01 174Mb   80.8% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000602_finalBA.txt, 5726 seqs00:01 210Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000602_finalBA.txt, 7076 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000602_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000602_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000737_finalBA.txt, 0 seqs00:01 193Mb   66.2% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000737_finalBA.txt, 4693 seqs00:01 290Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000737_finalBA.txt, 7097 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000737_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000737_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000772_finalBA.txt, 0 seqs00:01 161Mb   98.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000772_finalBA.txt, 6856 seqs00:01 164Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000772_finalBA.txt, 7011 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000772_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000772_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000773_finalBA.txt, 0 seqs00:00 109Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000773_finalBA.txt, 7003 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000773_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000773_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000774_finalBA.txt, 0 seqs00:01 127Mb   66.9% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000774_finalBA.txt, 4667 seqs00:01 176Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000774_finalBA.txt, 6969 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000774_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000774_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000782_finalBA.txt, 0 seqs00:01 189Mb   62.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000782_finalBA.txt, 4276 seqs00:01 291Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000782_finalBA.txt, 6895 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000782_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000782_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001151_ABfinal.fasta.txt, 0 seqs00:01 129Mb   39.4% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001151_ABfinal.fasta.txt, 2499 seqs00:01 331Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001151_ABfinal.fasta.txt, 6429 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001151_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM001151_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001256_finalBA.txt, 0 seqs00:01  64Mb   10.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001256_finalBA.txt, 710 seqs00:02 337Mb   60.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001256_finalBA.txt, 4251 seqs00:02 523Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001256_finalBA.txt, 7101 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001256_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM001256_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001381_ABfinal.fasta.txt, 0 seqs00:01  55Mb    8.4% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001381_ABfinal.fasta.txt, 593 seqs00:02 302Mb   59.6% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001381_ABfinal.fasta.txt, 4215 seqs00:02 485Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001381_ABfinal.fasta.txt, 7095 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001381_ABfinal.fasta.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM001381_ABfinal.fasta.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM002715_finalBA.txt, 0 seqs00:01  55Mb   18.3% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM002715_finalBA.txt, 1304 seqs00:01 268Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM002715_finalBA.txt, 7025 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM002715_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM002715_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM003194_finalBA.txt, 0 seqs00:01  39Mb    3.7% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM003194_finalBA.txt, 250 seqs00:02 282Mb   45.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM003194_finalBA.txt, 3178 seqs00:03 516Mb   88.6% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM003194_finalBA.txt, 6254 seqs00:03 586Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM003194_finalBA.txt, 7099 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM003194_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM003194_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-ryPhase//markers/FAM000602_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000602_finalBA.txt.out
-FAM000737_finalBA.txt   33 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000737_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000737_finalBA.txt.out
-FAM000772_finalBA.txt   34 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000772_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000772_finalBA.txt.out
-FAM000773_finalBA.txt   35 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000773_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000773_finalBA.txt.out
-FAM000774_finalBA.txt   36 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000774_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000774_finalBA.txt.out
-FAM000782_finalBA.txt   37 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000782_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM000782_finalBA.txt.out
-FAM001151_ABfinal.fasta.txt   38 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001151_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM001151_ABfinal.fasta.txt.out
-FAM001256_finalBA.txt   39 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001256_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM001256_finalBA.txt.out
-FAM001381_ABfinal.fasta.txt   40 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM001381_ABfinal.fasta.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM001381_ABfinal.fasta.txt.out
-FAM002715_finalBA.txt   41 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM002715_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM002715_finalBA.txt.out
-FAM003194_finalBA.txt   42 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM003194_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM003194_finalBA.txt.out
-FAM005139_finalBA.txt   43 /44
-/Users/Admin/Documentusearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM005139_finalBA.txt, 0 seqs00:01 160Mb   39.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM005139_finalBA.txt, 2748 seqs00:01 392Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM005139_finalBA.txt, 7045 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM005139_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM005139_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:01 110Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/number_markers.txt, 0 seqs
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/number_markers.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_number_markers.txt.out
-
----Fatal error---
-Input is not FASTA file
-usearch v5.2.32 (32-bit, 2.0Gb avail / 8.6Gb RAM)
-(C) Copyright 2010-11 Robert C. Edgar, all rights reserved.
-License: brian.e2014@gmail.com
-
-00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/RFCS_finalBA.txt, 0 seqs00:01 221Mb   46.8% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/RFCS_finalBA.txt, 3344 seqs00:01 441Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/RFCS_finalBA.txt, 7105 seqs
-
-
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt -db /Users/Admin/Documents/Work/ExploratoryPhase//markers/RFCS_finalBA.txt -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_RFCS_finalBA.txt.out
-
----Fatal error---
-Protein query + nucleotide db search not supported
-s/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM005139_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_FAM005139_finalBA.txt.out
-number_markers.txt   44 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/number_markers.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_number_markers.txt.out
-RFCS_finalBA.txt   45 /44
-/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32 -global -query /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt   -db  /Users/Admin/Documents/Work/ExploratoryPhase//markers/RFCS_finalBA.txt  -id 0.7 -blast6out /Users/Admin/Documents/Work/ExploratoryPhase//uploads/1/FinalResults.txt_RFCS_finalBA.txt.out
+00:00 3.1Mb    0.1% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000448_finalBA.txt, 0 seqs00:00 119Mb  100.0% Reading /Users/Admin/Documents/Work/ExploratoryPhase//markers/FAM000448_finalBA.txt, 6993 seqs
+00:00 115Mb    0.1% Searching                                                                                     00:01 117Mb    1.1% Searching 0.0% matched00:02 117Mb   12.1% Searching 0.6% matched00:03 117Mb   23.1% Searching 0.6% matched00:04 117Mb   33.8% Searching 0.6% matched
