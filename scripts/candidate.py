@@ -72,13 +72,11 @@ if candidate[1] >= 94 and len(multiple) <= 1:
 elif len(multiple) > 1:
 		message= '\nMultiple candidates with >98% identity: '+('\n'.join(multiple))
 else:
-	message= '\nNo match found for '+getGenomeFileName()+' over 94% identity (but the databank might be incomplete)'
+	message= '\nNo match found over 94% identity, but the databank might be incomplete.'
 
 print message
 fileOut.write(message)
 fileOut.close()
-
-
 
 
 
