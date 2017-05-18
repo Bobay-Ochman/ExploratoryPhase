@@ -1,4 +1,5 @@
 import sys
+import math
 
 
 def getTimeStamp():
@@ -13,15 +14,14 @@ def getEmail():
 def printAllArgs():
     return str(sys.argv)
 
-PATH_TO_USEARCH = '/Users/Admin/Documents/Work/testDataBank/usearch5.2.32_i86osx32'
-PATH_TO_ME = '/Users/Admin/Documents/Work/ExploratoryPhase/'
-PATH_TO_UPLOAD = PATH_TO_ME+'/uploads/'+getTimeStamp()+'/'
+PATH_TO_USEARCH = '/var/app/current/efs/progs/usearch8.0.1623_i86linux32'
+PATH_TO_ME = '/var/app/current/efs/ExploratoryPhase/'
+PATH_TO_UPLOAD = '/var/app/current/efs/uploads/'+getTimeStamp()+'/'
 
 
 ########################################################################
-import math
 
- 
+
 def mean( echantillon ) :
     size = len( echantillon )
     moyenne = float(sum( echantillon )) / float(size)
