@@ -59,7 +59,7 @@ for sp in species:
 	if len(tmp) > 0:
 		if median(tmp) >= 98 and len(tmp) >= 10:
 			multiple.append(sp)
-		message = ""+sp+' matched '+str(len(tmp))+ ' profiles over '+ markers[sp]+' for this species, Median identify score= '+str(median(tmp))+'%'
+		message = ""+sp+' matched '+str(len(tmp))+ ' profiles over '+ markers[sp]+' for this species, Median identity score= '+str(median(tmp))+'%'
 		print message
 		fileOut.write(message+'\n')
 		if median(tmp) > candidate[1] and len(tmp) >= 10:
