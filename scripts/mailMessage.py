@@ -17,7 +17,7 @@ def sendEmail(messageString):
 
 	msg = MIMEText("Hello!\n\n"+messageString+'\n\nSincerely,\nThe ConSpeciFix Team'+postMessage)
 
-	msg['Subject'] = 'Update on your File! id:'+ getTimeStamp()
+	msg['Subject'] = 'Update on your Exploration! id:'+ getTimeStamp()
 	msg['From'] = fromaddr
 	msg['To'] = toaddrs
 
