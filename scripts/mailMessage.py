@@ -7,10 +7,10 @@ from email.mime.text import MIMEText
 # Credentials (if needed)
 
 def sendEmail(messageString):
-	username = 'ConSpeciFix@gmail.com'
-	password = 'helloW0rldHowAreYou'
+	username = getUsername()
+	password = getPassword
 
-	fromaddr = 'ConSpeciFix@gmail.com'
+	fromaddr = username
 	toaddrs  = getEmail()
 
 	postMessage = "\n\nThis message is in regards to the file uploaded on "+str(datetime.datetime.fromtimestamp(int(getTimeStamp())/1000.0))
@@ -26,3 +26,4 @@ def sendEmail(messageString):
 	server.login(username,password)
 	server.sendmail(fromaddr, [toaddrs], msg.as_string())
 	server.quit()
+

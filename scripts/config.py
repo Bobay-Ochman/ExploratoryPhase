@@ -19,6 +19,17 @@ PATH_TO_ME = '/var/app/current/efs/ExploratoryPhase/'
 PATH_TO_UPLOAD = '/var/app/current/efs/uploads/'+getTimeStamp()+'/'
 
 
+def getUsername():
+    fs = open('/var/app/current/emailCredentials.txt','r')
+    lines = fs.readlines()
+    return lines[0].strip('\n')
+
+
+def getPassword():
+    fs = open('/var/app/current/emailCredentials.txt','r')
+    lines = fs.readlines()
+    return lines[1].strip('\n')
+
 ########################################################################
 
 
