@@ -1,1 +1,0 @@
-['/Users/Admin/Documents/Work/ExploratoryPhase/scripts/clean_gene_names.py', '314314', 'GCF_001541385.1_ASM154138v1_genomic', 'brian.ellis@austin.rr.com']
