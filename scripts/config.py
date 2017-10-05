@@ -14,19 +14,21 @@ def getEmail():
 def printAllArgs():
     return str(sys.argv)
 
-PATH_TO_USEARCH = '/var/app/current/efs/progs/usearch8.0.1623_i86linux32'
-PATH_TO_ME = '/var/app/current/efs/ExploratoryPhase/'
-PATH_TO_UPLOAD = '/var/app/current/efs/uploads/'+getTimeStamp()+'/'
+curr_dir = '/var/app/current/'
+
+PATH_TO_USEARCH = curr_dir+'efs/progs/usearch8.0.1623_i86linux32'
+PATH_TO_ME = curr_dir+'efs/ExploratoryPhase/'
+PATH_TO_UPLOAD = curr_dir+'efs/uploads/'+getTimeStamp()+'/'
 
 
 def getUsername():
-    fs = open('/var/app/current/emailCredentials.txt','r')
+    fs = open(curr_dir+'emailCredentials.txt','r')
     lines = fs.readlines()
     return lines[0].strip('\n')
 
 
 def getPassword():
-    fs = open('/var/app/current/emailCredentials.txt','r')
+    fs = open(curr_dir+'emailCredentials.txt','r')
     lines = fs.readlines()
     return lines[1].strip('\n')
 

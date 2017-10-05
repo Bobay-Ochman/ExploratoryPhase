@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 
 def sendEmail(messageString):
 	username = getUsername()
-	password = getPassword
+	password = getPassword()
 
 	fromaddr = username
 	toaddrs  = getEmail()
@@ -22,6 +22,7 @@ def sendEmail(messageString):
 	msg['To'] = toaddrs
 
 	server = smtplib.SMTP('smtp.gmail.com:587')
+	server.ehlo()
 	server.starttls()
 	server.login(username,password)
 	server.sendmail(fromaddr, [toaddrs], msg.as_string())

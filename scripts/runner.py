@@ -20,7 +20,7 @@ os.system('python '+PATH_TO_ME + 'scripts/' + 'clean_gene_names.py '+remArgs + '
 print "--- Expects just to have a .fa file"
 # usearch
 
-sendEmail("We've started your analysis and will be emailing you periodically to keep you updated on how it is going.")
+sendEmail("We've started your analysis and will email you at this address upon completion.")
 
 print "--- usearch"
 os.system('python '+ PATH_TO_ME + 'scripts/' + 'usearch_global.py'+remArgs+ ' &> '+PATH_TO_UPLOAD+'out/02_u_global.txt')
