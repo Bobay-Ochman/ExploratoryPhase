@@ -72,7 +72,8 @@ if candidate[1] >= 94 and len(multiple) <= 1:
 elif len(multiple) > 1:
 		message= '\nMultiple candidates with >98% identity: '+('\n'.join(multiple))
 else:
-	message= '\nNo match found over 94% identity, but the databank might be incomplete.'
+	message= '\nLess than 10 universal gene profiles found to be over 94% identity, but the databank might be incomplete.'
+print candidate
 
 print message
 fileOut.write(message)
