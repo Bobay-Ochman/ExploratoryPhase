@@ -23,7 +23,7 @@ try:
 	emailMessage += "".join(f.readlines())
 	sendEmail(emailMessage)
 	os.system("echo quitting, going home > out/11_stopping.txt")
-	goHome()
+	quit()
 except:
 	sendEmail("We've started your analysis and will email you at this address upon completion.")
 
