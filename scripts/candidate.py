@@ -34,7 +34,7 @@ for out in best:
 
 
 markers={}
-f=open(PATH_TO_ME+'/markers/number_markers.txt','r')
+f=open(PATH_TO_ME+'markers/number_markers.info','r')
 for l in f:
 	a=l.strip('\n').split('\t')
 	markers[a[0]] = a[1]
