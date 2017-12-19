@@ -8,10 +8,10 @@ from config import *
 
 
 username = getUsername()
-password = getPassword
+password = getPassword()
 
 fromaddr = username
-toaddrs  = getEmail()
+toaddr  = getEmail()
  
 msg = MIMEMultipart()
  
