@@ -44,11 +44,7 @@ if count < 11:
 	errors.append(("Error: too few genes to compare. Please seperate into genes as per the FASTA format. Number of genes identified: ",str(count)))
 
 
-fullName = PATH_TO_UPLOAD+getGenomeFileName()
-indexOfEnd = fullName.rfind('.')
-if indexOfEnd == -1:
-	indexOfEnd = len(fullName)-1
-fullName = fullName[:indexOfEnd+1] + '.fa'
+fullName = PATH_TO_UPLOAD+getGenomeFileName() + '.fa'
 os.system('mv '+PATH_TO_UPLOAD+getGenomeFileName()+"_clean.fa "+ fullName)
 
 if len(errors)>0:
